@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1606993305 source:e:\users\alina\onedrive - buet\desktop\igraphics-master2\igraphics-master\1905099.cpp
+	"iGraphics.h"
+
+1608420681 e:\users\alina\onedrive - buet\desktop\igraphics-master2\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1608420681 e:\users\alina\onedrive - buet\desktop\igraphics-master2\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608420681 e:\users\alina\onedrive - buet\desktop\igraphics-master2\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
